@@ -1,0 +1,7 @@
+{
+    "prettier.disableLanguages": [
+        "React"
+    ],
+    "prettier.alignObjectProperties": true,
+    "prettier.jsxBracketSameLine": true
+}
